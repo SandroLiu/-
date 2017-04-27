@@ -1,0 +1,4 @@
+@interface Person : NSObject
+
+
+@end
